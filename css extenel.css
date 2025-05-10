@@ -1,0 +1,52 @@
+    h1 {
+            color: #0090f0;
+        }
+        p {
+            color: #0044ff;
+        }
+        body {
+            background-image: url(https://fastly.codingal.com/images/logos/logos-main/logo.svg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+        }
+        h1:hover {
+            color: #0000ff;
+        }
+        p:hover {
+            color: #ff00ff;
+        }
+        a {
+            color: #ff0000;
+        }
+        a:hover {
+            color: #00ff00;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .nav {
+            margin: 20px 0;
+        }
+        .nav a {
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            background: #444;
+        }
+        .content {
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+        }     
